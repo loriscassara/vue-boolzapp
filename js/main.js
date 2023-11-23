@@ -212,7 +212,7 @@ createApp({
             };
             
             this.contacts[this.counter].messages.push(newTxt);
-            this.newMsg = ""
+            this.newMsg = "";
             setTimeout(this.receiveMsg, 1000);
         },
         
