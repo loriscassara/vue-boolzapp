@@ -3,3 +3,21 @@
 ***************/
 
 * { font-family: Helvetica, Arial, sans-serif; }
+
+body {
+    background-color: #222;
+    font-family: sans-serif;
+}
+
+/*************** 
+    BODY ELEMENTS
+***************/
+
+.background-box {
+    background-image: url(../img/mine.jpg);
+    height: 90%;
+}
+
+.text-box {
+    height: 10%;
+}
